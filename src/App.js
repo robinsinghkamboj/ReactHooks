@@ -11,7 +11,7 @@ function App() {
         <div>
           <nav class="navbar navbar-dark bg-dark">
             <div className="header-link">
-              <Link to="/">Hooks</Link> <span style={{ color: "#fff" }}>|</span>{" "}
+              <Link to="/">Hooks</Link> <span style={{ color: "#ffffff" }}>|</span>{" "}
               <Link to="/about">About</Link>
             </div>
           </nav>
